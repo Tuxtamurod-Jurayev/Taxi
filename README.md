@@ -29,3 +29,4 @@ Admin kirish hozircha statik `admin / admin123` tekshiruvi bilan ishlaydi.
 
 Loyiha `.env` to'ldirilgan bo'lsa Supabase bilan ishlaydi, aks holda local demo holatiga qaytadi.
 
+Supabase SQL Editor ichida `supabase/schema.sql` ni bir marta ishga tushiring. Shundan keyin `passenger_requests` va `taxi_routes` jadvallari tayyor bo'ladi.
